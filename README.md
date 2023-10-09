@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sruthiravindra
 - 👀 I’m interested in coding and developing new applications.
-- 🌱 I’m currently learning symfony, python
+- 🌱 I’m currently learning data science, python, react, nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
