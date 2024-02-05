@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @sruthiravindra
-- 👀 I’m interested in coding and developing new applications.
-- 🌱 I’m currently learning data science, python, react, nodejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Sruthi Ravindran! 👋
 
-<!---
-sruthiravindra/sruthiravindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Full Stack Programmer/Data Scientist in the making.  
+Welcome to my GitHub profile! 🚀
+
+## 🌱 About Me
+
+- 🎓 Completed Bachelor of Computer Science. InProgress eMaster in Data Science with Business Analytics from IIT Kanpur
+- 💼 Until I complete my degree I’m will be continuing to work as a freelancer.
+- 🌍 I’m residing in Dubai, United Arab Emirates
+
+## 🔧 Technologies & Tools
+
+I work with:
+
+- **PHP, ASP.Net, Python, NodeJs, JQuery, HTML, CSS, React :**
+- **Frameworks like CodeIgnitor:** 
+- **Database like MySQL, MSSQL, MongoDB, Firebase:** 
+## 📫 Contact Me
+- [LinkedIn] https://www.linkedin.com/in/sruthiravindran/
+## 🤝 Let's Connect
+I'm always open to collaboration and new opportunities. Feel free to reach out!
+
