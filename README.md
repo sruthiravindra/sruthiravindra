@@ -1,6 +1,6 @@
 # Hello, I'm Sruthi Ravindran! 👋
 
-Transitioning into a Data Scientist from a Full Stack Programmer.  
+Transitioning into a Data Scientist from a Full Stack Programmer with 15 years experience.  
 Welcome to my GitHub profile! 🚀
 
 ## 🌱 About Me
